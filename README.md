@@ -25,7 +25,7 @@ Include the route:
 ```yaml
 # config/routes.yaml
 was_bundle:
-    resource: '@ItkDevWebAccessibilityStatementBundle/Resources/config/routing.xml'
+    resource: '@ItkDevWebAccessibilityStatementBundle/Resources/config/routing.php'
 ```
 
 Define the url to your web accessibility statement in `.env.local`:
