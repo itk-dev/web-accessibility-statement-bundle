@@ -1,0 +1,15 @@
+{
+    "name": "rimi/web-accessibility-statement-bundle",
+    "description": "Web accessibility statement bundle",
+    "type": "symfony-bundle",
+    "require": {
+        "symfony/framework-bundle": "^3.2 || ^4.0 || ^5.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mikkel Ricky",
+            "email": "rimi@aarhus.dk"
+        }
+    ]
+}
