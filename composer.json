@@ -1,5 +1,5 @@
 {
-    "name": "rimi/web-accessibility-statement-bundle",
+    "name": "itk-dev/web-accessibility-statement-bundle",
     "description": "Web accessibility statement bundle",
     "type": "symfony-bundle",
     "require": {
@@ -11,5 +11,10 @@
             "name": "Mikkel Ricky",
             "email": "rimi@aarhus.dk"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "ItkDev\\WebAccessibilityStatementBundle\\": ""
+        }
+    }
 }
